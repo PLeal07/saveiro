@@ -1,0 +1,28 @@
+{
+  "name": "saveiro",
+  "version": "1.0.0",
+  "description": "Um bot de musica",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PLeal07/saveiro.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PLeal07/saveiro/issues"
+  },
+  "homepage": "https://github.com/PLeal07/saveiro#readme",
+  "dependencies": {
+    "@discordjs/builders": "^0.15.0",
+    "@discordjs/opus": "^0.7.0",
+    "@discordjs/rest": "^0.5.0",
+    "@discordjs/voice": "^0.10.0",
+    "discord-player": "^5.2.2",
+    "discord.js": "^13.8.0",
+    "dotenv": "^16.0.1"
+  }
+}
